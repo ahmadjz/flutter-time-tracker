@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974327092222",
+    "project_id": "time-tracker-null-safety",
+    "storage_bucket": "time-tracker-null-safety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974327092222:android:bcbe8157adbafcb2cea6af",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker_null_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974327092222-ecqccqsj2dfr1ujuvlq75m4avm0iu17m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_tracker_null_safety",
+            "certificate_hash": "39d7cad9a4728f81c4528d5fccfd3cb432f9c69e"
+          }
+        },
+        {
+          "client_id": "974327092222-cfktoi3aqdshgl1srgci47nfgoud67lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNL6ofiv1uaoQLvZgh2VI84YzqbFvssM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974327092222-cfktoi3aqdshgl1srgci47nfgoud67lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
